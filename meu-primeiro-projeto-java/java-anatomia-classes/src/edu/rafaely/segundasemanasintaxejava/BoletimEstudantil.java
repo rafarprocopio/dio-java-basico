@@ -1,3 +1,4 @@
+package edu.rafaely.segundasemanasintaxejava;
 public class BoletimEstudantil {
     
     public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package edu.rafaely.primeirasemanasintaxejava;
 public class MinhaClasse {
     
 public static  void main (String [] args) { 
